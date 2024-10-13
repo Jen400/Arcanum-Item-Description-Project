@@ -575,9 +575,9 @@
 {31170}{There's a faded symbol carved onto the drum's surface.}
 {31195}{D:2-10 FT:1-5 TH:+10 RNG:20 MSR:9} // Complexity -35
 {31196}{D:1-4 FT:2-9 TH:(+10) RNG(+1) MSR:5 Divine Magick} // Complexity +40
-{31197}{D:1-8 FT:1-2 TH:+10 RNG:20 MSR:8} // Complexity 0
+{31197}{D:1-8 FT:1-2 TH:+10 RNG:20 MSR:6/8} // Complexity 0
 {31198}{D:1-4 FT:1-2 TH:(+10) MSR:3/3 Bolt of Lightning} //Complexity +25
-{31199}{D:1-10 FT:2-5 TH:(+20) RNG:15 CH:(+15) MSR:10} //Complexity +20
+{31199}{D:1-10 FT:2-5 TH:(+20) RNG:15 CR:(+15) MSR:10} //Complexity +20
 {31200}{AC:2 DR:+1 FR:(+30) NP:+10 +20 Reaction}
 
 *** IF ANYONE ADDS ANY NPC (ALWAYS ADD ABOVE THIS LINE)NAMES TO THIS SECTION SEND JASON A EMAIL WITH THE NAMES THAT HAVE BEEN ADDED, WITH "GLOSSARY ADDITIONS" AS THE SUBJECT LINE ***
