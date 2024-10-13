@@ -4,4 +4,4 @@ To apply fix to unique variant of items:
 2. Copy Jen_ApplyFix.bat inside the Arcanum root directory as well, and launch it by double-clicking
 3. Enjoy :3
 
-Note: If at any time windows asks to replace files during copy select yes / yes to all
+Note: If at any time windows asks to replace files during copy select yes / yes to all / replace files in this destination
