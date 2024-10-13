@@ -578,7 +578,11 @@
 {31197}{D:1-8 FT:1-2 TH:+10 RNG:20 MSR:6/8} // Complexity 0
 {31198}{D:1-4 FT:1-2 TH:(+10) MSR:3/3 Bolt of Lightning} //Complexity +25
 {31199}{D:1-10 FT:2-5 TH:(+20) RNG:15 CR:(+15) MSR:10} //Complexity +20
-{31200}{AC:2 DR:+1 FR:(+30) NP:+10 +20 Reaction}
+{31200}{AC:2 DR:+1 FR:(+30) NP:+10 +20 Reaction} // Complexity +20
+{31201}{AC:5(+6)DR:+7(+12)FR:+3(+20)MR:(+10)NP:(+20)} // Complexity +80 #MISSING: Weight -30 but doesn't fit
+{31202}{D:1-4 FT:1-2 TH:(+15) SP:(+2) MSR 3/3} // Complexity +10
+{31203}{D:3-14 FT:2-10 TH:+15 MSR:7/9} // Complexity 0
+{31204}{AC:2 DR:+1 FR:+10 MR:+10} // Complexity -10
 
 *** IF ANYONE ADDS ANY NPC (ALWAYS ADD ABOVE THIS LINE)NAMES TO THIS SECTION SEND JASON A EMAIL WITH THE NAMES THAT HAVE BEEN ADDED, WITH "GLOSSARY ADDITIONS" AS THE SUBJECT LINE ***
 
