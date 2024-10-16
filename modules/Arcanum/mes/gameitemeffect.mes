@@ -22,7 +22,7 @@
 {30019}{Vase}
 {30020}{Poisoned Sword}
 {30021}{Gladys' Ring}
-{30022}{Sword of Baltar}
+{30022}{D:15-25 FT:5-15 MSR:14/18} // Complexity +25
 {30023}{Smithy}
 {30024}{General Store and Magicks}
 {30025}{General Goods}
@@ -66,7 +66,7 @@
 {30072}{Skull from the Tomb of Nasrudin}
 {30073}{Map to Stringy Pete's Cove}
 {30074}{Salty Seadrick}
-{30075}{Sword of Mannox}
+{30075}{D:2-9 FT:2-5 MSR:6/8} // Complexity 0
 {30076}{Kerghan}
 {30077}{Arronax}
 {30078}{"How to be a Dwarf"}
@@ -95,7 +95,7 @@
 {30101}{K'an Hua}
 {30102}{"How Nasrudin Defeated the Nefarious Arronax! and Other Stories"}
 {30103}{Statue of Saint Mannox}
-{30104}{+Crit Hit% PR:+20 WP:+1 Melee +2}
+{30104}{CR:+2 PR:+20 WP:+1 Melee +2} // Complexity 0
 {30105}{Preston Radcliffe}
 {30106}{Weldo Rubin}
 {30107}{Milly Fender}
@@ -181,7 +181,7 @@
 {30187}{Ivory}
 {30188}{Sharpe}
 {30189}{Wrath}
-{30190}{Staff of Xoranth}
+{30190}{D:1-4 FT:2-9 TH:(+25) SPD:(+25) CR:(+20) MSR:5} // Complexity +26
 {30191}{Whysper}
 {30192}{Winde}
 {30193}{Kan Kerai}
@@ -451,7 +451,7 @@
 {30458}{Mr. Victor Wright}
 {30459}{Well-to-do business man}
 {30460}{Divinations and Magicks for the Adept Wizard}
-{30461}{BE:+2}
+{30461}{BE:(+2)} // Complexity +40
 {30462}{Liam Cameron's Journal}
 {30463}{Thieves Underground Package}
 {30464}{Trevor Lynwood's Camera}
@@ -463,8 +463,8 @@
 {30470}{Considerable bonus to prowling when worn}
 {30471}{Potion to Heal the Blind}
 {30472}{J.T. Morgan's Master Locksmith Tools}
-{30473}{Prowling +2}
-{30474}{CN:+4}
+{30473}{Prowling +2} // Complexity 0 Caladon, +40 Roseborough
+{30474}{CN:(+4) MR:(+40)} // Complexity +80
 {30475}{Considerable bonus to haggle when worn}
 {30476}{Firearm Master's Rifle}
 {30477}{Note from Willenbecker Gang}
@@ -512,7 +512,7 @@
 {30519}{Mr. Razzia}
 {30520}{Saboteurs}
 {30521}{Vendigroth Journal}
-{30522}{Matchbook from The Roseborough Inn}
+{30522}{}
 {30523}{Simeon Tor}
 {30524}{Jorian}
 {30525}{V'ed Eckes}
@@ -522,10 +522,10 @@
 {30614}{Prowling +2}
 {30615}{Magick +10 to hit}
 {30616}{DX:+2 PE:+2}
-{30679}{D:1-8 FT:3-12 ST:+1 CN:+1 Healing +50%}
-{30680}{ST:+1 CN:+1 DX:+1 BE:+1}
-{30681}{BE:+2}
-{30682}{PE:+2 DX:+2}
+{30679}{D:1-8 FT:3-12 ST:CN:(+1)HR:(+50%)MSR:5 Maj Heal} // Complexity +40
+{30680}{AC:25 FR:5 ER:-5 NP:-25 ST:CN:DX:BE:(+1)} // Complexity +50
+{30681}{BE:(+2)} // Complexity +20
+{30682}{PE:+2 DX:+2} // Complexity 0
 {30719}{D:1-4 (+20 to Critical Failure)}
 {30720}{D:2-9 FT:2-5 (Speed -6)}
 {30721}{}
@@ -569,6 +569,7 @@
 {30890}{This stone altar looks unused and stained.}
 {30967}{ST:+1 CN:+1 Healing +50%}
 {30973}{This old drum seems to have a key carved into its face.}
+{31099}{D:1-10(+1-10 vs Animals) FT:2-5 RNG:15 MSR:8} // Complexity +15
 {31134}{CH:+3 BE:+3 Persuasion +3, Haggle +3}
 {31135}{DR:ER:FR:MR:PR:+20% Poison DOT, Poison Vapours}
 {31169}{This old drum seems to have a book carved into its face.}
@@ -583,6 +584,12 @@
 {31202}{D:1-4 FT:1-2 TH:(+15) SP:(+2) MSR 3/3} // Complexity +10
 {31203}{D:3-14 FT:2-10 TH:+15 MSR:7/9} // Complexity 0
 {31204}{AC:2 DR:+1 FR:+10 MR:+10} // Complexity -10
+{31207}{D:1-7 FT:1-10 TH:+20 MSR:7/9} // Complexity -10
+{31208}{D:1-4 FT:2-9 TH:10 RNG:2 MSR:5 Divine Magic} // Complexity +30
+{31209}{AC:2 DR:+10 NP+10 PE:-1} // Complexity 0
+{31211}{D:1-8 FT:1-3 TH:+10 RNG:10 Maj Heal, Resurrect} //  Complexity +75
+{31212}{AC:30(+10) DR:+10 Bolt of Lightning} // Complexity +40
+{40000}{[Quest] PE <8 +1 else -1}
 
 *** IF ANYONE ADDS ANY NPC (ALWAYS ADD ABOVE THIS LINE)NAMES TO THIS SECTION SEND JASON A EMAIL WITH THE NAMES THAT HAVE BEEN ADDED, WITH "GLOSSARY ADDITIONS" AS THE SUBJECT LINE ***
 
