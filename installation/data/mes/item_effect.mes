@@ -97,20 +97,20 @@
 {6118}{D:5-35 FT:1-10 RNG:12 MSR:5/7 [Crafting]} Hand Cannon
 {6119}{D:1-15 FT:1-10 RNG:15 MSR:8 [Crafting]} Clarington Rifle
 {6120}{D:1-8(+12) FT:1-4 Crit Effect:+50 Crit Fail:+20 MSR:4/6} Filament Sword
-{6121}{D:2-6 FT:1-3 MSR:3/3} Finely Crafted Dagger
-{6122}{D:1-4(+3) FT:1-2 MSR:3/3} Charmed Dagger
+{6121}{D:2-6 FT:1-3 MSR:3/3} Finely Crafted Dagger 
+{6122}{D:1-4(+3) FT:1-2 MSR:3/3} Charmed Dagger 
 {6123}{D:1-4(+6) FT:1-2(+1) MSR:3/3 (Mana:5)} Magick Dagger
 {6124}{D:1-4(+9) FT:1-2(+2) MSR:3/3 (Mana:10)} Mystic Dagger
 {6125}{D:1-6(+12) FT:1-2(+4) MSR:3/3 (Mana:20)} Arcane Dagger
-{6126}{D:3-12 FT:3-9 ED:1-20 MSR:6/8} Charged Sword
-{6127}{D:1-8(+4) FT:1-4 MSR:6/8} Charmed Sword
+{6126}{D:3-12 FT:3-9 ED:1-20 MSR:6/8} Charged Sword 
+{6127}{D:1-8(+4) FT:1-4 MSR:6/8} Charmed Sword 
 {6128}{D:1-8(+8) FT:1-4(+2) (Mana:4) MSR:7/9} Magick Sword
 {6129}{D:1-8(+12) FT:1-4(+4) (Mana:8) MSR:8/10} Mystic Sword
 {6130}{D:1-8(+16) FT:1-4(+8) (Mana:16) MSR:9/11} Arcane Sword
-{6131}{D:1-12 FT:1-9 PD:20-40 MSR:8/10 [Chop]} Envenomed Axe
-{6132}{D:1-2 FT:1-9 ED:20-30 MSR:8/10 [Chop]} Charged Axe
-{6133}{D:1-12 FT:1-9 FD:30-50 MSR:8/10 [Chop]} Pyrotechnic Axe
-{6134}{D:1-12(+5) FT:1-9(+1) MSR:9/11 [Chop]} Charmed Axe
+{6131}{D:1-12 FT:1-9 PD:20-40 MSR:8/10 [Chop]} Envenomed Axe 
+{6132}{D:1-2 FT:1-9 ED:20-30 MSR:8/10 [Chop]} Charged Axe 
+{6133}{D:1-12 FT:1-9 FD:30-50 MSR:8/10 [Chop]} Pyrotechnic Axe 
+{6134}{D:1-12(+5) FT:1-9(+1) MSR:9/11 [Chop]} Charmed Axe 
 {6135}{D:1-12(+10) FT:1-9(+3) MSR:10/12 (Mana:4)[Chop]} Magick Axe
 {6136}{D:1-13(+15) FT:1-9(+6) MSR:11/13 (Mana:8)[Chop]} Mystic Axe
 {6137}{D:3-14(+20) FT:2-10(+9) MSR:11/13 (Mana:16)[Chop]} Arcane Axe
@@ -122,20 +122,20 @@
 {6143}{D:4-16(+8) FT:3-11(+8) MSR:15/19 (Mana:12)} Magick Great Sword
 {6144}{D:4-16(+12) FT:3-11(+12) MSR:16/20 (Mana:16)} Mystic Great Sword
 {6145}{D:4-16(+16) FT:3-11(+16) MSR:16/20 (Mana:20)} Arcane Great Sword
-{6146}{D:1-10 FT:2-5 FD:5-20 RNG:20 MSR:10} Pyrotechnic Bow
-{6147}{D:1-10 FT:2-5 PD:10-30 RNG:20 MSR:10} Envenomed Bow
-{6148}{D:1-10(+2) FT:2-5 RNG:20 MSR:11} Charmed Bow
-{6149}{D:1-10(+4) FT:2-5 RNG:20 MSR:11} Magick Bow
-{6150}{D:1-10(+6) FT:2-5 RNG:20 MSR:11} Mystic Bow
-{6151}{D:1-10(+8) FT:2-5 RNG:20 MSR:11} Arcane Bow
-{6152}{D:10-30 FT:5-20 RNG:15 MSR:11 Bypasses DR} Rifled Cannon
-{6153}{D:1-15 FT:1-3 Acid damage to item:10 RNG:15 MSR:8} Acid Gun
+{6146}{D:1-10 FT:2-5 FD:5-20 RNG:20 MSR:10} Pyrotechnic Bow 
+{6147}{D:1-10 FT:2-5 PD:10-30 RNG:20 MSR:10} Envenomed Bow 
+{6148}{D:1-10(+2) FT:2-5 RNG:20 MSR:11} Charmed Bow 
+{6149}{D:1-10(+4) FT:2-5 RNG:20 MSR:11} Magick Bow 
+{6150}{D:1-10(+6) FT:2-5 RNG:20 MSR:11} Mystic Bow 
+{6151}{D:1-10(+8) FT:2-5 RNG:20 MSR:11} Arcane Bow 
+{6152}{D:10-30 FT:5-20 RNG:15 MSR:11 Bypasses DR} Rifled Cannon 
+{6153}{D:1-15 FT:1-3 Acid damage to item:10 RNG:15 MSR:8} Acid Gun 
 {6154}{D:1-4 ED:10-80 RNG:15 MSR:11 Requires Charges} Tesla Gun
-{6155}{D:1-4 FD:2-20 RNG:15 MSR:12} Grenade Launcher
-{6156}{D:1-15 FT:1-3 ED:10-10 RNG:15 MSR:8 [Crafting]} Charged Accelerator Gun
-{6157}{D:30-60 FT:5-15 RNG:15 MSR:15} Blade Launcher
-{6158}{D:1-15 FT:1-3 FD:1-20 RNG:15 MSR:8} Pyrotechnic Gun
-{6159}{D:1-15 FT:%70-150 depends on the target, RNG:15 MSR:8} Tranquilizer Gun
+{6155}{D:1-4 FD:2-20 RNG:15 MSR:12} Grenade Launcher 
+{6156}{D:1-15 FT:1-3 ED:10-10 RNG:15 MSR:8 [Crafting]} Charged Accelerator Gun 
+{6157}{D:30-60 FT:5-15 RNG:15 MSR:15} Blade Launcher 
+{6158}{D:1-15 FT:1-3 FD:1-20 RNG:15 MSR:8} Pyrotechnic Gun 
+{6159}{D:1-15 FT:%70-150 depends on the target, RNG:15 MSR:8} Tranquilizer Gun 
 {6160}{D:1-8 FT:3-12(+6) MSR:5 (Mana:20)} Charmed Staff
 {6161}{D:1-8 FT:3-12(+12) MSR:5 (Mana:40)} Magick Staff
 {6162}{D:1-8 FT:3-12(+18) MSR:5 (Mana:60)} Mystic Staff
@@ -154,7 +154,7 @@
 {6175}{D:1-1 FT:1-3 MSR:6/8 [Crafting]} Oak Axe Handle
 {6176}{D:3-6 MSR:2/2 Bypasses AC/DR} Stiletto
 {6177}{D:1-3 MSR:3/3 [Offering]} Bone Dagger
-{6178}{D:2-6 MSR:3/3} Kite Sword
+{6178}{D:2-6 MSR:3/3} Kite Sword 
 
 //Ammo - Ammo type items have "Quantity: XX" in place of the description
 {7038}{Arrow} Arrow
@@ -413,7 +413,7 @@
 {8289}{[Valuable]} Diamond Necklace
 {8290}{AC:6 DR:9 PE:+3} Goggled Helmet
 {8291}{AC:25 DR:+53 PR:+20 FR:+20 ER:-10 NP:-90 ST:(+3)} Large Machined Platemail //MA maluses AC:-10 DR:-10 FR:-10 ER:-10 PR:-20
-{8292}{AC:13 DR:+25 FR:+5 ER:-10 NP:-25 [Crafting]} Large Feather-Weight Chain
+{8292}{AC:13 DR:+25 FR:+5 ER:-10 NP:-25 [Crafting]} Large Feather-Weight Chain 
 
 //Gold
 {9056}{} Gold
@@ -477,7 +477,7 @@
 {10112}{Permanent: +1 to Mental Stats, -1 Physical. } Brain Builder
 {10113}{Permanent: +1 to Physical Stats, -1 Mental. } Muscle Maker
 {10114}{+25 max. health +25 max. fatigue for 60 sec.} Invigorator
-{10115}{Raises the target from the dead.} Reanimator // Scroll of Resurrect text
+{10115}{Raises the target from the dead.} Reanimator // Scroll of Resurrect text 
 {10116}{Restores 100 Health and 100 Fatigue} Miracle Cure
 {10117}{Halves the target's Willpower for 60 sec.} Mental Inhibitor
 {10118}{Creates undead follower from targeted corpse for 6 min.} Necromizer
@@ -591,9 +591,9 @@
 {11137}{Renders the target paralyzed.} Scroll of Stasis
 {11138}{Increases your speed, while slowing down your opponents.} Scroll of Tempus Fugit
 {11139}{} Kerghan's Death Scroll //When used by player ominous laughter sound effect still triggers
-{11140}{} Kerghan's Attack Scroll
+{11140}{} Kerghan's Attack Scroll 
 {11141}{Teleports you to the surface entrance of the current area.} Scroll of Exiting
-{11142}{} Med Spider Heal
+{11142}{} Med Spider Heal 
 
 // Keys
 {12060}{} Key
@@ -614,64 +614,64 @@
 {14069}{} Pamphlet
 {14070}{[Quest]} The Legend of T'erre-d'-V'nt
 {14071}{[Quest]} Professor Eakin's Telegram
-{14072}{} Vendigroth Newspaper
+{14072}{} Vendigroth Newspaper 
 {14073}{} Invigorator
-{14074}{} Reanimator
-{14075}{} Clockwork Physician
-{14076}{} Miracle Cure
-{14077}{} Mental Inhibitor
+{14074}{} Reanimator 
+{14075}{} Clockwork Physician 
+{14076}{} Miracle Cure 
+{14077}{} Mental Inhibitor 
 {14078}{} Necromizer
-{14079}{} Fortifier
-{14080}{} Fuel
+{14079}{} Fortifier 
+{14080}{} Fuel 
 {14081}{} Potion of Paralysis // UAP removed it
-{14082}{} Lemon and Potato Charges
-{14083}{} Charged Sword
-{14084}{} Flow Disruptor
-{14085}{} Tesla Gun
+{14082}{} Lemon and Potato Charges 
+{14083}{} Charged Sword 
+{14084}{} Flow Disruptor 
+{14085}{} Tesla Gun 
 {14086}{} Bellringer // UNUSED INGAME
-{14087}{} Electro Armour
-{14088}{} Pyrotechnic Bow
-{14089}{} Knock Out Gas
-{14090}{} Hallucination Grenade
-{14091}{} Electrocution Grenade
-{14092}{} Grenade Launcher
-{14093}{} Time Bomb
-{14094}{} Concussion Grenade
-{14095}{} Paralysis Grenade
-{14096}{} Mustard Gas Grenade
-{14097}{} Plastique
-{14098}{} Detonator
-{14099}{} Flame Thrower
-{14100}{} Mechanized Gun
-{14101}{} Acid Gun
-{14102}{} Accelerator Gun
-{14103}{} Pyrotechnic Gun
-{14104}{} Blade Launcher
-{14105}{} High Velocity Pistol
+{14087}{} Electro Armour 
+{14088}{} Pyrotechnic Bow 
+{14089}{} Knock Out Gas 
+{14090}{} Hallucination Grenade 
+{14091}{} Electrocution Grenade 
+{14092}{} Grenade Launcher 
+{14093}{} Time Bomb 
+{14094}{} Concussion Grenade 
+{14095}{} Paralysis Grenade 
+{14096}{} Mustard Gas Grenade 
+{14097}{} Plastique 
+{14098}{} Detonator 
+{14099}{} Flame Thrower 
+{14100}{} Mechanized Gun 
+{14101}{} Acid Gun 
+{14102}{} Accelerator Gun 
+{14103}{} Pyrotechnic Gun 
+{14104}{} Blade Launcher 
+{14105}{} High Velocity Pistol 
 {14106}{} Schreck's Multi-Barreled Pistol // UAP made it useable
-{14107}{} Long Range Pistol
-{14108}{} Tranquilizer Gun
-{14109}{} Poison Arachnid
-{14110}{} Automaton
-{14111}{} Compound Bow
-{14112}{} Envenomed Bow
-{14113}{} Medical Arachnid
-{14114}{} Illuminated Decoy
-{14115}{} Explosive Decoy
+{14107}{} Long Range Pistol 
+{14108}{} Tranquilizer Gun 
+{14109}{} Poison Arachnid 
+{14110}{} Automaton 
+{14111}{} Compound Bow 
+{14112}{} Envenomed Bow 
+{14113}{} Medical Arachnid 
+{14114}{} Illuminated Decoy 
+{14115}{} Explosive Decoy 
 {14116}{} Automaton Gunner // UNUSED INGAME
-{14117}{} Goggled Helmet
-{14118}{} Machined Platemail
-{14119}{} Wheel Clan Spectacles
-{14120}{} Envenomed Sword
-{14121}{} Envenomed Axe
-{14122}{} Miner's Helmet
-{14123}{} Pyrotechnic Axe
-{14124}{} Rifled Cannon
-{14125}{} Mechanical Dagger
-{14126}{} Elixir of Hypnotic Suggestion
-{14127}{} Brain Builder
+{14117}{} Goggled Helmet 
+{14118}{} Machined Platemail 
+{14119}{} Wheel Clan Spectacles 
+{14120}{} Envenomed Sword 
+{14121}{} Envenomed Axe 
+{14122}{} Miner's Helmet 
+{14123}{} Pyrotechnic Axe 
+{14124}{} Rifled Cannon 
+{14125}{} Mechanical Dagger 
+{14126}{} Elixir of Hypnotic Suggestion 
+{14127}{} Brain Builder 
 {14128}{} Muscle Maker
-{14129}{} Bullets
+{14129}{} Bullets 
 
 
 
@@ -685,7 +685,7 @@
 {15071}{[Crafting: Electric] Sturdy glass with light emiter.} Filament //changing its description effects unique item descriptions too (Ancient Filament from IoD)
 {15072}{Produces light around the user, in offhand [Crafting]} Lantern
 {15073}{[Crafting: Electric] Small device that energy charge} Capacitor
-{15074}{} Potassium Nitrate //UNUSED INGAME (item has an unusable camera icon)
+{15074}{} Potassium Nitrate //UNUSED INGAME (item has an unusable camera icon) 
 {15075}{[Junk] Maybe a blacksmith will pay you for this?} Coal
 {15076}{[Crafting: Explosives] Soft reactive metal.} Magnesium
 {15077}{[Junk] Leftovers from Factory work.} Metal Shavings
@@ -700,7 +700,7 @@
 {15086}{[Crafting: Smithy] Raw material requires processing.} Iron Ore
 {15087}{[Crafting: Smithy] Quality metal popular among smiths.} Steel
 {15088}{[Crafting: Smithy] Well made hilt, comfortable to hold.} Fine Hilt and Guard
-{15089}{[Crafting: Therapeutics] Heat expand Mercury in Glass tube.} Thermometer
+{15089}{[Crafting: Therapeutics] Heat expand Mercury in Glass tube.} Thermometer 
 {15090}{[Crafting: Mechanical]} Small Steam Engine
 {15091}{[Crafting: Mechanical] Large Cogs for the heaviest machines.} Large Gears
 {15092}{Poison leaks across this robotic spider's legs.} Mechanized Arachnid (poison)
